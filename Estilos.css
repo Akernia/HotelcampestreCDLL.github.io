@@ -6,13 +6,16 @@
    
 }
 .h4{
+    margin-top: 2.2%;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 160%;
 }
 #menu{
-    margin-right: 4rem;
+    margin-right: 2rem;
 }
 .nav-link{
     margin: 0.2rem;
+    font-size: 108%;
 }
 .INICIAL{
     margin: 0 auto;
